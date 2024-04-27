@@ -1,8 +1,28 @@
+
+
 .card{
+    font-family: sans-serif;
     background: #5a5959;
     width: 700px;
     margin: 0 auto;
     padding: 20px;
     height: 400px;
     margin-top: 150px;
+    border-radius: 15px;
+}
+.card-title{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+.card-text{
+    margin-top: 50px;
+    text-align: left;
+    font-size: 30px;
+    font-weight: 600;
+}
+.card-author{
+    margin-top: 30px;
+    font-size: 16px;
+    font-weight: 500;
 }
